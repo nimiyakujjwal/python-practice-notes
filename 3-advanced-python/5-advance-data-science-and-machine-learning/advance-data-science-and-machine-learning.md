@@ -1,0 +1,3 @@
+- Deep learning with TensorFlow and PyTorch
+- Natural language processing (NLP)
+- Advanced statistical modeling

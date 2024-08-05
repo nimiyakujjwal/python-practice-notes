@@ -1,0 +1,3 @@
+- what is python.
+- why choose python.
+- installing python.

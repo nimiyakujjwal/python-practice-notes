@@ -1,0 +1,3 @@
+- socket programming
+- creating new server and client
+- understanding protocols (HTTP, FTP, SMTP)

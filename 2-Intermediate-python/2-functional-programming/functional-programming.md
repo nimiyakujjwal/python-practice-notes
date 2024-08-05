@@ -1,0 +1,3 @@
+- lambda functions
+- map, filter and reduce
+- functional programming modules

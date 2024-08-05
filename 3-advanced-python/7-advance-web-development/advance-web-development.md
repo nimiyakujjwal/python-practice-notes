@@ -1,0 +1,3 @@
+- Full stack development with modern framework
+- Web-sockets and real time communication
+- Microservices architecture
