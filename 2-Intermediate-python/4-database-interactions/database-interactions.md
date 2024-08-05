@@ -1,0 +1,2 @@
+- using `sqlite3` for database operations
+- ORM concept with `SQLAlchemy`

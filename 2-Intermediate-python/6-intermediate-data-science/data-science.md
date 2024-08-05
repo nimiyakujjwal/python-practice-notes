@@ -1,0 +1,3 @@
+- data manupulation with `pandas`
+- data visualization with `matplotlib` and `seaborn`
+- introduction to machine learing with `scikit-learn`

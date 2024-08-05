@@ -1,0 +1,3 @@
+- understanding pythonic idioms
+- advanced use of list comprehension
+- effective use of generators and iterators

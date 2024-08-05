@@ -1,0 +1,3 @@
+- Singleton, Factory, and Observer patterns
+- Model-View-Controller (MVC) architecture
+- Advanced OOP concepts

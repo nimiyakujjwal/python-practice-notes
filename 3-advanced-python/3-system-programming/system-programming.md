@@ -1,0 +1,3 @@
+- Interacting with the Operating system
+- Scripting for file and directory management
+- Working with subprocesses and threading

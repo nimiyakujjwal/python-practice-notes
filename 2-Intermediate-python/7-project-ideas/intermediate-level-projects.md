@@ -1,0 +1,3 @@
+- building a content aggregator
+- creating a command line application
+- developing a simple GUI with `tkinter`
