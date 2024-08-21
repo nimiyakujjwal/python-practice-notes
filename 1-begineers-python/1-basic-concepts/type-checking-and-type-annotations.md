@@ -1,0 +1,2 @@
+- isinstance() and type() functions
+- Type hints and annotations

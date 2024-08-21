@@ -1,0 +1,2 @@
+- Using print statements for debugging
+- Debugger tools and techniques
