@@ -1,3 +1,5 @@
 - syntax error
-- exception handling
+- exception handling (try, except, finally)
 - raising exception
+- Handling exceptions (try, except, else, finally)
+- Raising exceptions (raise statement)

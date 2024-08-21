@@ -1,3 +1,0 @@
-- writing readable code
-- code commenting
-- pythonic convention
