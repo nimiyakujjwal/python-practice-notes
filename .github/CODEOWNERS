@@ -1,0 +1,10 @@
+# Example: The following line assigns ownership of all `.js` files in the `src/` directory to the user `@username`.
+#src/**/*.js @username
+
+# Example: The following line assigns ownership of all files in the `docs/` directory to the team `@org/teamname`.
+#docs/ @org/teamname
+
+# Example: The following line assigns ownership of all files in the repository to the user `@username`.
+#* @username
+
+* @ujjwal-git
