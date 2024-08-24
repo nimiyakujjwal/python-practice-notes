@@ -1,0 +1,6 @@
+- writing readable code
+- code commenting
+- pythonic convention
+- PEP 8 style guide
+- Naming conventions
+- Code formatting and organization

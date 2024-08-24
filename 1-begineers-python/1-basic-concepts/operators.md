@@ -1,0 +1,5 @@
+- basic operators (+, -, /, %, **)
+- Logical operators (and, or, not)
+- Comparison operators (==, !=, <, >, <=, >=)
+- Bitwise AND, OR, XOR, left shift, right shift
+- Bitwise complement

@@ -1,3 +1,3 @@
-- if, elif, else
-- for
-- while
+- Conditional: if, elif, else
+- Loops: for, while
+- Break, Continue, Pass

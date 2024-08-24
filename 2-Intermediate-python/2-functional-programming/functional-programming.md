@@ -1,3 +1,5 @@
 - lambda functions
 - map, filter and reduce
 - functional programming modules
+- Higher-order functions
+- List comprehensions vs. functional approaches

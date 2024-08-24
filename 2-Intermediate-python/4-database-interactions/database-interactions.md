@@ -1,2 +1,5 @@
 - using `sqlite3` for database operations
 - ORM concept with `SQLAlchemy`
+- Connecting to databases (SQLite, MySQL, etc.)
+- CRUD operations (Create, Read, Update, Delete)
+- ORM (Object-Relational Mapping) concepts
