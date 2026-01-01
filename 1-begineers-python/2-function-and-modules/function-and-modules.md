@@ -1,6 +1,0 @@
-- defining fun
-- function argument
-- function parameters
-- Return value and scope
-- Lambda functions
-- importing modules
