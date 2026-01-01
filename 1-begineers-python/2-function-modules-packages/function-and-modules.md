@@ -1,0 +1,77 @@
+- defining fun
+- function argument
+- function parameters
+- Return value and scope
+- Lambda functions
+- importing modules
+
+--- 
+### List of python built-in generic functions:
+
+- `abs(x)` — Return the absolute value of a number.
+- `all(iterable)` — Return True if every element of the iterable is truthy.
+- `any(iterable)` — Return True if any element of the iterable is truthy.
+- `ascii(obj)` — Return a string containing a printable representation, escaping non-ASCII characters.
+- `bin(x)` — Convert an integer to its binary string prefixed with `0b`.
+- `bool(x)` — Convert a value to a Boolean (`True` or `False`).
+- `bytearray(source)` — Create a mutable sequence of bytes from source.
+- `bytes(source)` — Create an immutable bytes object from source.
+- `callable(obj)` — Return True if the object appears callable (e.g., functions).
+- `chr(i)` — Return the string representing a Unicode code point.
+- `classmethod(func)` — Transform a function into a class method.
+- `compile(source, filename, mode)` — Compile source into a code object for `exec`, `eval`, or `single`.
+- `complex(real, imag=0)` — Create a complex number from real and imaginary parts.
+- `delattr(obj, name)` — Delete attribute `name` from `obj`.
+- `dict(**kwargs)` — Create a dictionary or convert mapping/iterable to dict.
+- `dir(obj=None)` — Return a list of valid attributes for the object or current scope.
+- `divmod(a, b)` — Return a tuple `(a // b, a % b)` (quotient and remainder).
+- `enumerate(iterable, start=0)` — Return an iterator of `(index, value)` pairs.
+- `eval(expr, globals=None, locals=None)` — Evaluate a Python expression and return the result.
+- `exec(source, globals=None, locals=None)` — Execute dynamically created Python code.
+- `filter(function, iterable)` — Yield items from iterable for which function(item) is truthy.
+- `float(x)` — Convert a value to a floating-point number.
+- `format(value, spec='')` — Format a value according to the format specifier.
+- `frozenset(iterable)` — Return an immutable set of elements from the iterable.
+- `getattr(obj, name, default=None)` — Get attribute `name` from `obj`, or return `default`.
+- `globals()` — Return a dictionary representing the current global symbol table.
+- `hasattr(obj, name)` — Return True if object has attribute `name`.
+- `hash(obj)` — Return the hash value of an object (if hashable).
+- `help(obj)` — Invoke the built-in help system for the object or topic.
+- `hex(x)` — Convert an integer to a hexadecimal string prefixed with `0x`.
+- `id(obj)` — Return the “identity” (unique integer) of an object.
+- `input(prompt='')` — Read a line from input, optionally displaying a prompt.
+- `int(x, base=10)` — Convert a number or string to an integer (with optional base).
+- `isinstance(obj, cls)` — Check if `obj` is an instance of `cls` or a subclass tuple.
+- `issubclass(cls, classinfo)` — Check if `cls` is a subclass of `classinfo`.
+- `iter(obj)` — Return an iterator for the object.
+- `len(obj)` — Return the number of items in a container.
+- `list(iterable)` — Create a list from an iterable.
+- `locals()` — Return a dictionary representing the current local symbol table.
+- `map(function, iterable, ...)` — Apply function to every item of iterable(s) and yield results.
+- `max(iterable, *[, key, default])` — Return the largest item or the largest of two or more arguments.
+- `min(iterable, *[, key, default])` — Return the smallest item or the smallest of two or more arguments.
+- `next(iterator, default=None)` — Retrieve the next item from an iterator, or return default.
+- `object()` — Return a new featureless base object.
+- `oct(x)` — Convert an integer to an octal string prefixed with `0o`.
+- `open(file, mode='r', ...)` — Open a file and return a file object.
+- `ord(c)` — Return the Unicode code point for a single-character string.
+- `pow(x, y, mod=None)` — Return x to the power y; if mod provided, return pow(x, y) % mod efficiently.
+- `print(*objects, sep=' ', end='\n', ...)` — Print objects to the stream or standard output.
+- `property(fget=None, fset=None, fdel=None)` — Create and return a property attribute.
+- `range(start, stop[, step])` — Return an immutable sequence of numbers.
+- `repr(obj)` — Return a string that would yield the object when passed to `eval()` (if possible).
+- `reversed(seq)` — Return a reverse iterator over a sequence.
+- `round(number, ndigits=None)` — Round a number to a given precision.
+- `set(iterable)` — Create a mutable set of unique elements.
+- `setattr(obj, name, value)` — Set attribute `name` of `obj` to `value`.
+- `slice(start, stop, step)` — Create a slice object for indexing.
+- `sorted(iterable, *, key=None, reverse=False)` — Return a new sorted list from the iterable.
+- `staticmethod(func)` — Transform a function into a static method.
+- `str(object='')` — Return a string version of an object.
+- `sum(iterable, start=0)` — Sum items of an iterable, optionally starting from `start`.
+- `super([type[, object-or-type]])` — Return a proxy object to delegate method calls to a parent class.
+- `tuple(iterable)` — Create a tuple from an iterable.
+- `type(obj)` — Return the type of an object, or dynamically create a new type.
+- `vars(obj=None)` — Return the __dict__ attribute for objects, or local symbol table.
+- `zip(*iterables)` — Aggregate elements from each iterable into tuples.
+- `__import__(name, globals=None, locals=None, fromlist=(), level=0)` — Low-level import function used by the import statement.
