@@ -1,0 +1,24 @@
+- what is string in python?
+- What is literal in python?
+- what is function?
+- what are types of function in python?
+- what are argument and return value of func?
+- what is invoking a function?
+- list of built in functions?
+- what is user-defined function?
+- complete syntax explaination and use of print() fn?
+- what is the type of output of print() func?
+- what is concatenation in string?
+- how would print() func show output of arguments seperated by comma?
+- what is expression in python?
+- what are data types in python?
+- what are different types of datatypes?
+- type() fun in python, usage, syntax, varied examples?
+- what is variable in python? list all the variable naming rules in python?
+- what are reserved keyword in python? list out all, with its example usages.
+- what is multiple variable assignment? give an example.
+- what if no of vaiable is less or more than value in multiple variable assignment.
+- unary operators in python
+- input() func, complete syntax, usages, example?
+- different types of errors in python, their syntax, usages and examples.
+- 
