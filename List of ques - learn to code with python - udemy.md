@@ -21,4 +21,15 @@
 - unary operators in python
 - input() func, complete syntax, usages, example?
 - different types of errors in python, their syntax, usages and examples.
+- details of slicing in python
+- details about raw string
+- use of \ vs enclosing whole statement in parenthesis to break across mulitple line, which one is preferred and good practice?
+- complete use of "in" and "not in"
+- list out all methods of string with their usages.
+- detailed usage of rfind() method
+- capitlaize(), title(), lower(), upper(), swapcase() in string
+- method chaining
+- boolean methods for string: islower(), isupper(), istitle(), isalpha(), isnumeric(), isalnum(), isspace()
+- lstrip(), rstrip(), strip(), 
+- replace(), format()
 - 
